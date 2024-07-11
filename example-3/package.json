@@ -11,6 +11,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "cross": "^1.0.0",
+    "env": "^0.0.2",
     "express": "^5.0.0-beta.1"
   },
   "devDependencies": {
